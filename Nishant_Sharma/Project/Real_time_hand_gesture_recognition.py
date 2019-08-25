@@ -17,9 +17,6 @@ import sys
 
 cap = cv2.VideoCapture(0)
 
-
-
-
 flag_data1 = 1
 flag_data2 = 2
 flag_display = 1
